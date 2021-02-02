@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Lloricode\Mojang\Tests;
 
 use PHPUnit\Framework\TestCase;
 

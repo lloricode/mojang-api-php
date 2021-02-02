@@ -1,16 +1,20 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "lloricode/php-mojang-api",
+    "description": "php-mojang-api",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "lloricode",
+        "php-mojang-api",
+        "mojang",
+        "php",
+        "api",
+        "minecraft"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/lloricode/php-mojang-api",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "Lloric Mayuga Garcia",
+            "email": "lloricode@gmail.com",
             "role": "Developer"
         }
     ],
@@ -18,19 +22,19 @@
         "php": "^7.4|^8.0"
     },
     "require-dev": {
+        "composer-runtime-api": "^2.0",
         "friendsofphp/php-cs-fixer": "^2.17",
         "phpunit/phpunit": "^9.5",
-        "spatie/ray": "^1.10",
         "vimeo/psalm": "^4.3"
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Skeleton\\": "src"
+            "Lloricode\\Mojang\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Skeleton\\Tests\\": "tests"
+            "Lloricode\\Mojang\\Tests\\": "tests"
         }
     },
     "scripts": {
