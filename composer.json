@@ -1,15 +1,15 @@
 {
-    "name": "lloricode/php-mojang-api",
-    "description": "php-mojang-api",
+    "name": "lloricode/mojang-api-php",
+    "description": "mojang-api-php",
     "keywords": [
         "lloricode",
-        "php-mojang-api",
+        "mojang-api-php",
         "mojang",
         "php",
         "api",
         "minecraft"
     ],
-    "homepage": "https://github.com/lloricode/php-mojang-api",
+    "homepage": "https://github.com/lloricode/mojang-api-php",
     "license": "MIT",
     "authors": [
         {

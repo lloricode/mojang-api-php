@@ -1,8 +1,8 @@
-# php-mojang-api
+# mojang-api-php
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/lloricode/php-mojang-api.svg?style=flat-square)](https://packagist.org/packages/lloricode/php-mojang-api)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/lloricode/php-mojang-api/Tests?label=tests)](https://github.com/lloricode/php-mojang-api/actions?query=workflow%3ATests+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/lloricode/php-mojang-api.svg?style=flat-square)](https://packagist.org/packages/lloricode/php-mojang-api)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/lloricode/mojang-api-php.svg?style=flat-square)](https://packagist.org/packages/lloricode/mojang-api-php)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/lloricode/mojang-api-php/Tests?label=tests)](https://github.com/lloricode/mojang-api-php/actions?query=workflow%3ATests+branch%3Amaster)
+[![Total Downloads](https://img.shields.io/packagist/dt/lloricode/mojang-api-php.svg?style=flat-square)](https://packagist.org/packages/lloricode/mojang-api-php)
 
 SDK for https://wiki.vg/Mojang_API
 
@@ -11,7 +11,7 @@ SDK for https://wiki.vg/Mojang_API
 You can install the package via composer:
 
 ```bash
-composer require lloricode/php-mojang-api
+composer require lloricode/mojang-api-php
 ```
 
 ## Usage
